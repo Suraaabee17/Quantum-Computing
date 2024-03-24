@@ -1,4 +1,4 @@
-Abstract
+# Abstract
 
 Our project embarks on a groundbreaking method of teaching quantum computing by integrating it with the excitement of augmented reality (AR) escape rooms. Picture yourself entering an AR environment where unraveling the intricacies of quantum circuits and gates is the key to your escape. In Level I, you'll grasp the foundational concepts, mastering the basics of quantum circuits and gates.
 
