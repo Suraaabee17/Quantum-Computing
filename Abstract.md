@@ -7,3 +7,16 @@ As you progress to Level II, the difficulty intensifies. You're not merely a stu
 Our vision is to revolutionize the often daunting field of quantum computing into an accessible and captivating journey. By harnessing the immersive capabilities of AR and the educational potential of QiskitBlocks, we aim to demystify complex theories, making them not only comprehensible but genuinely enjoyable to delve into.
 
 Ultimately, our goal is to create an interactive quantum universe where learning is an engaging experience from start to finish.
+
+
+## Project Objectives:
+
+***Tiered Structure:*** The project comprises multiple levels, each focusing on specific quantum computing concepts, from basics to advanced topics like quantum logic gates and oracles.
+
+***AR Escape Rooms:*** Students engage in AR escape room scenarios at each level, solving puzzles rooted in quantum computing principles to progress and solidify theoretical understanding.
+
+***QiskitBlocks Integration:*** QiskitBlocks are integrated into the AR environment, allowing students to visually manipulate and experiment with quantum circuits, enhancing comprehension.
+
+***Collaborative Learning:*** Team-based challenges promote collaboration among students, fostering discussion, idea exchange, and collective problem-solving.
+
+***Assessment and Reflection:*** Each level concludes with a reflective assessment phase, enabling students to review concepts, relate them to puzzles solved, and explore real-world applications in quantum computing.
