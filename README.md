@@ -42,19 +42,9 @@ To get started with QiskitBlocks, follow these steps to download and install Min
 
 - Click the `Play Game` button, waiting a few seconds while the new world is generated and lighted.
 
-## Selecting a language
-Due to the great translation work of [Kifumi Numata](https://twitter.com/kifuminumata) , you may choose for QiskitBlocks messages to be displayed in Japanese (`ja`). To accomplish this, take the following steps: 
-
-- From the `Settings` tab, click the `All Settings` button:
-![Minetest All Settings](https://github.com/JavaFXpert/QiskitBlocks/raw/master/minetest_all_settings_button.png)
-
-- Click `Client and Server` to expand it, then click `language`. Click the edit button, select `ja` from the dropdown list, and click the `Save` button. After clicking the `< Back to Settings page` button, exit Minetest and run it again so that your language selection takes effect in QiskitBlocks messages:  
-![Minetest select language](https://github.com/JavaFXpert/QiskitBlocks/raw/master/minetest_select_language.png)
-
 ## Explore and learn!
 - When you're in the starting room with all of the quantum operation blocks on the wall, use the W, A, S, D keys to walk up to the sign on the right side of the door. Right-click the sign and follow the instructions. Have fun exploring and solving quantum circuit puzzles! 
 
-Please reach out to James Weaver on Qiskit Slack (located at [qiskit.org](http://qiskit.org)) with questions or feedback.
 
 ![QiskitBlocks escape rooms](https://github.com/JavaFXpert/QiskitBlocks/raw/master/escape_room_psi_minus.png)
 
