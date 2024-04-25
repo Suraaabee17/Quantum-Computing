@@ -65,4 +65,4 @@ Please reach out to James Weaver on Qiskit Slack (located at [qiskit.org](http:/
 ![Quantum Circuits Garden in QiskitBlocks](https://github.com/JavaFXpert/QiskitBlocks/raw/master/quantum_circuits_garden.png)
 
 
-## We are taking inspiration from this escape room game while changing the quantum concepts and puzzles, as well as the interface where 
+## We are taking inspiration from this escape room game while changing the quantum concepts and puzzles, as well as the interface and levels to make it more enganging.
