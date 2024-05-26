@@ -6,13 +6,13 @@
 
 - [x] **Gaming Environment Development:** Develop the gaming environment, predominantly coding in Python.
 
-- [ ] **Ideating Quantum Concepts:** Identify key quantum computing concepts to teach in the game. Develop creative ways to incorporate these concepts into the escape room environment. Some concepts we wish to include: Superposition, Entanglement, Quantum Gates (e.g., Hadamard, CNOT), Quantum Circuits.
+- [x] **Ideating Quantum Concepts:** Identify key quantum computing concepts to teach in the game. Develop creative ways to incorporate these concepts into the escape room environment. Some concepts we wish to include: Superposition, Entanglement, Quantum Gates (e.g., Hadamard, CNOT), Quantum Circuits.
 
-- [ ] **Incorporating these Concepts:** Design puzzles and challenges within the escape room that require players to understand and apply quantum concepts to progress.
+- [x] **Incorporating these Concepts:** Design puzzles and challenges within the escape room that require players to understand and apply quantum concepts to progress.
 
-- [ ] **Integration of Literature Review Insights:** Incorporate any innovative ideas or elements discovered during the literature review into our game environment to enhance gameplay and educational value.
+- [x] **Integration of Literature Review Insights:** Incorporate any innovative ideas or elements discovered during the literature review into our game environment to enhance gameplay and educational value.
 
-- [ ] **Making Changes to the Gaming Environment:** Make necessary adjustments and refinements to the gaming environment based on our ideation, feedback and testing.
+- [x] **Making Changes to the Gaming Environment:** Make necessary adjustments and refinements to the gaming environment based on our ideation, feedback and testing.
 
 - [ ] **Publishing the Game on GitHub:** Prepare the game for publication on GitHub by adding ReadMe files, Requirements files, and any other necessary documentation.
 
